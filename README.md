@@ -1,0 +1,2 @@
+# SmartBrainApp
+An app made by React that uses Clarifai's API to detect faces on images.  The app also features a Sign in and Register page which allows user information to be synced to a database that was created with PostgreSQL. This allows for the tracking of when the user signed up, their email address, and the amount of entries they have submitted for facial recognition. For added security, all user passwords are hashed in the database.
